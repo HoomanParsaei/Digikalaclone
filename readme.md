@@ -30,3 +30,4 @@ Admin can add new admin and edit users or sellers profile and checkout process
 
 Each Category have some subcategory and each subcategory have some products and to find some product you should first choose one category and after that you should choose one subcategory and now you can choose one category 
 
+![UML Diagram](assets/Untitled%20Diagram.drawio.svg)
